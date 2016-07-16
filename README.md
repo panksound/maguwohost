@@ -1,0 +1,2 @@
+# maguwohost
+test
